@@ -1,0 +1,27 @@
+{
+  "visual": {
+    "name": "HTMLDisplay",
+    "displayName": "HTMLDisplay",
+    "guid": "HTMLDisplay6CE794FF3FB045669CCC358F1B510019",
+    "visualClassName": "HTMLDisplay",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.10.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/html-icon-small.png"
+  },
+  "externalJS": [
+    "node_modules/powerbi-visuals-utils-dataviewutils/lib/index.js"
+  ],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json",
+  "stringResources": []
+}
